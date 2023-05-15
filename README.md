@@ -1,3 +1,5 @@
+# This fork fixes the "nimble.nimble" file name so vaf does not overwrite nimble when installed with 'nimble install'.
+
 <div align="center">
 <h1>vaf</h1>
 <h3>A fast, simple, and feature rich web fuzzer written in nim</h3>
